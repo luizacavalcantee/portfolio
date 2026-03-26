@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:smaller-narwhal-171465.framer.app)",
+      "Bash(node -e \":*)",
+      "Bash(powershell -c \"\\(New-Object Media.SoundPlayer 'C:\\\\\\\\Windows\\\\\\\\Media\\\\\\\\notify.wav'\\).PlaySync\\(\\)\")",
+      "Bash(printf \"N\\\\nY\\\\n\")",
+      "Bash(yes \"\")"
+    ]
+  }
+}
